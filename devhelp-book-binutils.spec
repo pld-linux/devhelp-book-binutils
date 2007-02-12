@@ -1,5 +1,5 @@
 Summary:	DevHelp book: binutils
-Summary(pl.UTF-8):   Książka do DevHelpa o binutils
+Summary(pl.UTF-8):	Książka do DevHelpa o binutils
 Name:		devhelp-book-binutils
 Version:	1.0
 Release:	2
