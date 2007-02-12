@@ -1,5 +1,5 @@
 Summary:	DevHelp book: binutils
-Summary(pl):	Ksi±¿ka do DevHelpa o binutils
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o binutils
 Name:		devhelp-book-binutils
 Version:	1.0
 Release:	2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about binutils.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o binutils.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o binutils.
 
 %prep
 %setup -q -c -n binutils
